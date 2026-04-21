@@ -35,11 +35,10 @@ Easy to see large files and remove them
 
 RevoUninstaller
 
-
-
 ### Fresh install
 https://www.pcmag.com/how-to/how-to-rid-a-new-pc-of-crapware
 
 Stop hidden services and telemetry
-- Win Key + R > Type 'services.msc' > Find Connect User Experience and Telemetry > Stop it and set startup type to disable 
+- Win Key + R > Type 'services.msc' > Find Connect User Experience and Telemetry > Stop it and set startup type to disable
+- Win Key + R > Type 'services.msc' > Find SysMain > Stop it and set startup type to disable
 - Win Key + R > Type 'taskschd.msc' > Expand Task Scheduler Libray - Microsoft - Windows - Application Experience > Then right-click Microsoft Compatibility Appraiser and disable it 
